@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DEVELOPMENT">
+  <test name="Functionality Testing" preserve-order="true">
+    <classes>
+      <class name="kbh.exportcontentgetdata.com.ExportContent_TC_DSMod_09_CopyFiles"/>
+      <class name="kbh.exportcontentgetdata.com.ExportContent_TC_DSMod_09_Data"/>
+      <class name="kbh.exportcontentgetdata.com.ExportContent_TC_DSMod_09"/>
+      <class name="kbh.exportcontentgetdata.com.ExportContent_TC_DSMod_11_Data"/>
+      <class name="kbh.exportcontentgetdata.com.ExportContent_TC_DSMod_11"/>
+      <class name="kbh.exportcontentgetdata.com.ExportContent_TC_DSMod_13_Data"/>
+      <class name="kbh.exportcontentgetdata.com.ExportContent_TC_DSMod_13"/>
+      <class name="kbh.exportcontentgetdata.com.ExportContent_TC_DSMod_15_Data"/>
+      <class name="kbh.exportcontentgetdata.com.ExportContent_TC_DSMod_15"/>
+    </classes>
+    <classes> 
+       <class name="kbh.exportcontent.com.ExportContent_TC_DSMod_01"/> 
+       <class name="kbh.exportcontent.com.ExportContent_TC_DSMod_02"/> 
+    </classes>
+  </test> 
+</suite> 
+            

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DEVELOPMENT">
+	<listeners>
+		<listener class-name="regression.com.ExtentReporManager"/>
+	</listeners>
+	<test name="Regression Testing" preserve-order="true">	
+	 <classes>
+	  <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_01"/>  
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_02"/>  
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_03"/> 
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_04"/>  
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_05"/>  
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_06"/>
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_07"/>  
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_08"/>  
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_10"/>   
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_12"/>   
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_14"/>
+	  <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_09"/>  
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_11"/>   
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_13"/>   
+      <class name="kbh.exportcontent.com.copy.ExportContent_TC_DSMod_15"/>
+ 	</classes>	
+  </test> 
+</suite> 
+            
